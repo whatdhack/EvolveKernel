@@ -1,0 +1,6 @@
+{
+  "name": "TritonEvolve",
+  "description": "An evolutionary program synthesis agent that designs, optimizes, and simulates high-performance Triton GPU kernels for Tensara.org challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

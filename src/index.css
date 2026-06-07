@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-primary: #2563EB;
+  --color-secondary: #64748B;
+  --color-accent: #10B981;
+  --color-ink: #1E293B;
+  --color-bg-custom: #F0F2F5;
+  --color-surface: #FFFFFF;
+}
+
+/* Custom fade animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* Custom scrollbars for code panels */
+pre::-webkit-scrollbar, div::-webkit-scrollbar, textarea::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track, textarea::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+pre::-webkit-scrollbar-thumb, div::-webkit-scrollbar-thumb, textarea::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+pre::-webkit-scrollbar-thumb:hover, div::-webkit-scrollbar-thumb:hover, textarea::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
