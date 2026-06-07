@@ -1,0 +1,1463 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://tritonevolve-184312701025.us-east1.run.app/
+Subject: My Google AI Studio App
+Date: Sun, 7 Jun 2026 11:07:58 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--VB5OMiaGdDS45yPA84iHK98QEsVrxZtdE8iWdXowfH----"
+
+
+------MultipartBoundary--VB5OMiaGdDS45yPA84iHK98QEsVrxZtdE8iWdXowfH----
+Content-Type: text/html
+Content-ID: <frame-DE1D6370038F9A271BCDA4053910572D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://tritonevolve-184312701025.us-east1.run.app/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>My Google AI Studio App</title>
+   =20
+    <link rel=3D"stylesheet" crossorigin=3D"" href=3D"https://tritonevolve-=
+184312701025.us-east1.run.app/assets/index-DH2Unfcl.css">
+  </head>
+  <body>
+    <div id=3D"root"><div class=3D"min-h-screen bg-bg-custom font-sans text=
+-ink"><header class=3D"border-b border-slate-200 bg-surface/90 backdrop-blu=
+r-md sticky top-0 z-40"><div class=3D"max-w-7xl mx-auto px-4 sm:px-6 lg:px-=
+8 py-3.5 flex items-center justify-between"><div class=3D"flex items-center=
+ space-x-3"><div class=3D"bg-primary text-white font-extrabold w-8 h-8 roun=
+ded-lg flex items-center justify-center text-lg shadow-sm">T</div><div><div=
+ class=3D"flex items-center space-x-2"><span class=3D"font-sans font-semibo=
+ld text-base text-ink tracking-tight">Tensara Evolve Agent</span><span clas=
+s=3D"bg-blue-50 text-primary text-[10px] font-semibold py-0.5 px-2 rounded-=
+full border border-blue-200 font-mono">ALPHA-AGENT</span></div><p class=3D"=
+text-xs text-secondary">Evolutionary program synthesis &amp; performance sa=
+ndbox for Tensara GPU Benchmarks</p></div></div><div class=3D"flex items-ce=
+nter space-x-4"><div class=3D"hidden md:flex items-center space-x-3"><div c=
+lass=3D"flex items-center space-x-1.5 bg-slate-50 border border-slate-200 p=
+x-2.5 py-1 rounded-lg"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"2=
+4" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor=
+" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" cla=
+ss=3D"lucide lucide-activity h-3.5 w-3.5 text-rose-500" aria-hidden=3D"true=
+"><path d=3D"M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0=
+L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"></path></svg>=
+<span class=3D"text-xs text-secondary font-mono">GPU: <strong class=3D"text=
+-slate-700 font-medium">Tesla T4</strong></span></div><div class=3D"flex it=
+ems-center space-x-1.5 bg-slate-50 border border-slate-200 px-2.5 py-1 roun=
+ded-lg"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24=
+" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide l=
+ucide-sparkles h-3.5 w-3.5 text-primary" aria-hidden=3D"true"><path d=3D"M1=
+1.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051=
+a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 =
+1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966=
+l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d=3D"M20 2v4"></path><pat=
+h d=3D"M22 4h-4"></path><circle cx=3D"4" cy=3D"20" r=3D"2"></circle></svg><=
+span class=3D"text-xs text-secondary font-mono">Synthesis: <strong class=3D=
+"text-slate-700 font-medium">Gemini-3.5</strong></span></div></div><div cla=
+ss=3D"flex items-center space-x-2"><button class=3D"flex items-center space=
+-x-1.5 bg-[#24292f] hover:bg-[#1f2327] text-white rounded-xl px-3 py-1.5 te=
+xt-xs font-semibold transition-all shadow-xs cursor-pointer"><svg xmlns=3D"=
+http://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24=
+" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=
+=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-github h-4 w-4 =
+text-white" aria-hidden=3D"true"><path d=3D"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3=
+ 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.6=
+4-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0=
+ 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path=
+><path d=3D"M9 18c-4.51 2-5-2-7-2"></path></svg><span>Sign in with GitHub</=
+span></button><div class=3D"flex items-center space-x-2 bg-slate-50 border =
+border-slate-200 px-3 py-1.5 rounded-xl"><svg xmlns=3D"http://www.w3.org/20=
+00/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stro=
+ke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-line=
+join=3D"round" class=3D"lucide lucide-user h-3.5 w-3.5 text-slate-500" aria=
+-hidden=3D"true"><path d=3D"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"></pa=
+th><circle cx=3D"12" cy=3D"7" r=3D"4"></circle></svg><span class=3D"text-xs=
+ text-slate-500 font-medium whitespace-nowrap">Solver Handle:</span><input =
+placeholder=3D"Local Optimizer" class=3D"bg-transparent text-xs font-mono f=
+ont-bold text-primary focus:outline-none focus:ring-0 w-28 placeholder-slat=
+e-400 border-none p-0" type=3D"text" value=3D"Local Optimizer"></div></div>=
+</div></div></header><main class=3D"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 =
+py-6"><div class=3D"grid grid-cols-1 lg:grid-cols-12 gap-6"><div class=3D"l=
+g:col-span-7 flex flex-col space-y-6"><div class=3D"bg-surface border borde=
+r-slate-200 rounded-xl p-5 shadow-xs"><div class=3D"flex items-center justi=
+fy-between mb-4"><div class=3D"flex items-center space-x-2"><svg xmlns=3D"h=
+ttp://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24"=
+ fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D=
+"round" stroke-linejoin=3D"round" class=3D"lucide lucide-award h-4 w-4 text=
+-primary" aria-hidden=3D"true"><path d=3D"m15.477 12.89 1.515 8.526a.5.5 0 =
+0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1=
+.514-8.526"></path><circle cx=3D"12" cy=3D"8" r=3D"6"></circle></svg><span =
+class=3D"text-xs font-bold uppercase tracking-wider text-secondary">Select =
+Tensara Problem</span></div><span class=3D"bg-blue-50 text-primary text-xs =
+font-semibold py-1 px-3 rounded-lg border border-blue-200 font-mono">Target=
+: 14.52 GFLOPS</span></div><div class=3D"grid grid-cols-2 sm:grid-cols-3 ga=
+p-2"><button class=3D"text-left p-3 rounded-xl transition-all border cursor=
+-pointer bg-blue-50/50 border-primary shadow-xs"><h4 class=3D"text-xs font-=
+bold truncate text-primary">ReLU Activation</h4><p class=3D"text-[10px] tex=
+t-secondary mt-1 uppercase tracking-tight truncate font-medium">relu =E2=80=
+=A2 Tesla T4 GPU</p></button><button class=3D"text-left p-3 rounded-xl tran=
+sition-all border cursor-pointer bg-slate-50/30 border-slate-200 hover:bord=
+er-slate-300 hover:bg-slate-50"><h4 class=3D"text-xs font-bold truncate tex=
+t-ink">Vector Addition (VecAdd)</h4><p class=3D"text-[10px] text-secondary =
+mt-1 uppercase tracking-tight truncate font-medium">vector_add =E2=80=A2 Te=
+sla T4 GPU</p></button><button class=3D"text-left p-3 rounded-xl transition=
+-all border cursor-pointer bg-slate-50/30 border-slate-200 hover:border-sla=
+te-300 hover:bg-slate-50"><h4 class=3D"text-xs font-bold truncate text-ink"=
+>GELU Activation</h4><p class=3D"text-[10px] text-secondary mt-1 uppercase =
+tracking-tight truncate font-medium">gelu =E2=80=A2 Tesla T4 GPU</p></butto=
+n><button class=3D"text-left p-3 rounded-xl transition-all border cursor-po=
+inter bg-slate-50/30 border-slate-200 hover:border-slate-300 hover:bg-slate=
+-50"><h4 class=3D"text-xs font-bold truncate text-ink">Softmax Activation (=
+Row-wise)</h4><p class=3D"text-[10px] text-secondary mt-1 uppercase trackin=
+g-tight truncate font-medium">softmax =E2=80=A2 Tesla T4 GPU</p></button><b=
+utton class=3D"text-left p-3 rounded-xl transition-all border cursor-pointe=
+r bg-slate-50/30 border-slate-200 hover:border-slate-300 hover:bg-slate-50"=
+><h4 class=3D"text-xs font-bold truncate text-ink">Matrix Multiplication (G=
+EMM)</h4><p class=3D"text-[10px] text-secondary mt-1 uppercase tracking-tig=
+ht truncate font-medium">matmul =E2=80=A2 Tesla T4 GPU</p></button></div><d=
+iv class=3D"mt-4 pt-4 border-t border-slate-200 leading-relaxed text-xs tex=
+t-slate-600"><p class=3D"text-ink font-semibold mb-1">Challenge Summary:</p=
+><p class=3D"text-slate-500 leading-relaxed">Write an optimized elementwise=
+ Rectified Linear Unit (ReLU) activation kernel in Triton. The kernel compu=
+tes `y =3D max(x, 0)` for a single-dimensional vector x of size N.</p><p cl=
+ass=3D"text-slate-500 mt-2 font-mono text-[10px]"><strong class=3D"text-pri=
+mary">Inputs:</strong> Input x (dim N, float32 contiguous), Output y (dim N=
+, float32 contiguous).</p></div></div><div class=3D"bg-surface border borde=
+r-slate-200 rounded-xl flex flex-col overflow-hidden shadow-xs"><div class=
+=3D"bg-slate-50/80 border-b border-slate-200 px-4 py-3 flex items-center ju=
+stify-between"><div class=3D"flex items-center space-x-2"><svg xmlns=3D"htt=
+p://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" f=
+ill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"r=
+ound" stroke-linejoin=3D"round" class=3D"lucide lucide-code h-4 w-4 text-pr=
+imary" aria-hidden=3D"true"><path d=3D"m16 18 6-6-6-6"></path><path d=3D"m8=
+ 6-6 6 6 6"></path></svg><span class=3D"text-xs font-bold uppercase trackin=
+g-wider text-secondary">Triton Kernel Workspace</span></div><div class=3D"f=
+lex items-center space-x-2"><button class=3D"flex items-center space-x-1.5 =
+text-[10px] text-slate-600 hover:text-ink bg-white hover:bg-slate-50 px-2.5=
+ py-1 rounded-lg border border-slate-200 transition-all font-mono shadow-xs=
+ cursor-pointer"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" hei=
+ght=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stro=
+ke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"=
+lucide lucide-refresh-cw h-3 w-3" aria-hidden=3D"true"><path d=3D"M3 12a9 9=
+ 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path><path d=3D"M21 3v5h-5"></=
+path><path d=3D"M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path=
+><path d=3D"M8 16H3v5"></path></svg><span>Reset Seed</span></button><button=
+ class=3D"flex items-center space-x-1.5 text-[10px] text-slate-600 hover:te=
+xt-ink bg-white hover:bg-slate-50 px-2.5 py-1 rounded-lg border border-slat=
+e-200 transition-all font-mono shadow-xs cursor-pointer"><svg xmlns=3D"http=
+://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fi=
+ll=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"ro=
+und" stroke-linejoin=3D"round" class=3D"lucide lucide-copy h-3 w-3" aria-hi=
+dden=3D"true"><rect width=3D"14" height=3D"14" x=3D"8" y=3D"8" rx=3D"2" ry=
+=3D"2"></rect><path d=3D"M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .=
+9 2 2"></path></svg><span>Copy</span></button></div></div><div class=3D"fle=
+x bg-slate-50/70 font-mono text-xs text-slate-800 min-h-[350px] relative bo=
+rder-b border-slate-200/50"><div class=3D"bg-slate-100/90 text-slate-400 py=
+-4 px-3 text-right select-none border-r border-slate-200/70 flex flex-col a=
+lign-middle text-[11px] font-mono w-10"><div class=3D"leading-5 h-5">1</div=
+><div class=3D"leading-5 h-5">2</div><div class=3D"leading-5 h-5">3</div><d=
+iv class=3D"leading-5 h-5">4</div><div class=3D"leading-5 h-5">5</div><div =
+class=3D"leading-5 h-5">6</div><div class=3D"leading-5 h-5">7</div><div cla=
+ss=3D"leading-5 h-5">8</div><div class=3D"leading-5 h-5">9</div><div class=
+=3D"leading-5 h-5">10</div><div class=3D"leading-5 h-5">11</div><div class=
+=3D"leading-5 h-5">12</div><div class=3D"leading-5 h-5">13</div><div class=
+=3D"leading-5 h-5">14</div><div class=3D"leading-5 h-5">15</div><div class=
+=3D"leading-5 h-5">16</div><div class=3D"leading-5 h-5">17</div><div class=
+=3D"leading-5 h-5">18</div></div><textarea class=3D"flex-1 bg-transparent p=
+y-4 px-3 font-mono leading-5 text-slate-800 min-h-[350px] focus:outline-non=
+e resize-y" placeholder=3D"# Write your Triton kernel here..." spellcheck=
+=3D"false">import triton
+import triton.language as tl
+
+@triton.jit
+def relu_kernel(
+    x_ptr,
+    y_ptr,
+    n_elements,
+    BLOCK_SIZE: tl.constexpr,
+):
+    pid =3D tl.program_id(axis=3D0)
+    block_start =3D pid * BLOCK_SIZE
+    offsets =3D block_start + tl.arange(0, BLOCK_SIZE)
+    mask =3D offsets &lt; n_elements
+    x =3D tl.load(x_ptr + offsets, mask=3Dmask)
+    y =3D tl.where(x &gt; 0.0, x, 0.0)
+    tl.store(y_ptr + offsets, y, mask=3Dmask)
+</textarea></div><div class=3D"bg-slate-50/60 border-t border-slate-200 px-=
+4 py-3.5 flex items-center justify-between"><p class=3D"text-[10px] text-se=
+condary font-mono">Target: NVIDIA GPU (Ampere sm_75 / T4)</p><button class=
+=3D"flex items-center space-x-1.5 bg-primary hover:bg-blue-700 active:bg-bl=
+ue-800 disabled:bg-slate-300 text-white font-semibold text-xs py-1.5 px-4 r=
+ounded-lg transition-all shadow-xs cursor-pointer"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"=
+none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" s=
+troke-linejoin=3D"round" class=3D"lucide lucide-play h-3.5 w-3.5 fill-curre=
+nt" aria-hidden=3D"true"><path d=3D"M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998=
+a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z"></path></svg><span>Simulate Ke=
+rnel (T4 Sandbox)</span></button></div></div><div class=3D"bg-slate-900 bor=
+der border-slate-950 rounded-xl overflow-hidden shadow-inner font-mono text=
+-xs"><div class=3D"bg-slate-950 px-4 py-2 flex items-center justify-between=
+ border-b border-slate-900"><div class=3D"flex items-center space-x-2"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D=
+"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke=
+-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-termina=
+l h-4 w-4 text-accent" aria-hidden=3D"true"><path d=3D"M12 19h8"></path><pa=
+th d=3D"m4 17 6-6-6-6"></path></svg><span class=3D"text-[10px] font-medium =
+uppercase tracking-wider text-slate-400 font-mono">T4 CUDA SANDBOX TERMINAL=
+ LOG</span></div></div><div class=3D"p-4 font-mono text-[11px] leading-rela=
+xed text-slate-300 max-h-[180px] overflow-y-auto"><div class=3D"text-slate-=
+500 italic py-4 text-center">No active sandbox execution recorded. Click "S=
+imulate Kernel (T4 Sandbox)" to run static compliance validation and compil=
+er performance estimates.</div></div></div></div><div class=3D"lg:col-span-=
+5 flex flex-col space-y-6"><div class=3D"bg-surface border border-slate-200=
+ rounded-xl p-5 shadow-xs"><div class=3D"flex items-center justify-between =
+mb-4"><div class=3D"flex items-center space-x-2"><svg xmlns=3D"http://www.w=
+3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"no=
+ne" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" str=
+oke-linejoin=3D"round" class=3D"lucide lucide-sliders-vertical h-4 w-4 text=
+-primary" aria-hidden=3D"true"><path d=3D"M10 8h4"></path><path d=3D"M12 21=
+v-9"></path><path d=3D"M12 8V3"></path><path d=3D"M17 16h4"></path><path d=
+=3D"M19 12V3"></path><path d=3D"M19 21v-5"></path><path d=3D"M3 14h4"></pat=
+h><path d=3D"M5 10V3"></path><path d=3D"M5 21v-7"></path></svg><span class=
+=3D"text-xs font-bold uppercase tracking-wider text-secondary">Evolution En=
+gine Settings</span></div></div><div class=3D"space-y-4"><div><label class=
+=3D"block text-[11px] uppercase text-slate-500 tracking-wider font-semibold=
+ mb-2">Synthesis Model</label><select class=3D"w-full bg-slate-50 border bo=
+rder-slate-200 rounded-lg px-3 py-2 text-xs text-ink focus:outline-none foc=
+us:border-primary focus:ring-1 focus:ring-primary/40 cursor-pointer text-sl=
+ate-800"><option value=3D"gemini-3.5-flash">Gemini 3.5 Flash (Super Fast mu=
+tation)</option><option value=3D"gemini-3.1-pro-preview">Gemini 3.1 Pro (Co=
+mplex math synthesis)*</option></select></div><div><div class=3D"flex justi=
+fy-between items-center mb-1"><label class=3D"text-[11px] uppercase text-sl=
+ate-500 tracking-wider font-semibold">Gen Population Pool size</label><span=
+ class=3D"text-xs font-mono font-bold text-primary">4 candidates / gen</spa=
+n></div><input min=3D"2" max=3D"6" class=3D"w-full accent-primary bg-slate-=
+200 rounded-lg appearance-none h-1.5 focus:outline-none cursor-pointer" typ=
+e=3D"range" value=3D"4"><div class=3D"flex justify-between text-[9px] text-=
+slate-400 font-mono mt-1"><span>2 (Fastest)</span><span>4 (Ideal)</span><sp=
+an>6 (Diversified)</span></div></div><div><div class=3D"flex justify-betwee=
+n items-center mb-1"><label class=3D"text-[11px] uppercase text-indigo-500 =
+tracking-wider font-semibold">Generational Depth Tuning</label><span class=
+=3D"text-xs font-mono font-bold text-indigo-600">3 consecutive gens</span><=
+/div><input min=3D"1" max=3D"5" class=3D"w-full accent-indigo-600 bg-slate-=
+200 rounded-lg appearance-none h-1.5 focus:outline-none cursor-pointer" typ=
+e=3D"range" value=3D"3"><div class=3D"flex justify-between text-[9px] text-=
+slate-400 font-mono mt-1"><span>1 (Single)</span><span>3 (Moderate)</span><=
+span>5 (Maximum consecutive recursive synthesis)</span></div></div><div><la=
+bel class=3D"block text-[11px] uppercase text-slate-500 tracking-wider font=
+-semibold mb-2">Applied Mutational Focus &amp; Triton Tuning Flags</label><=
+div class=3D"grid grid-cols-2 gap-2 text-[10px] font-mono"><label class=3D"=
+flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border border-sla=
+te-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-slate-7=
+00"><input class=3D"accent-primary h-3.5 w-3.5 cursor-pointer animate-none"=
+ type=3D"checkbox" checked=3D""><span>Coalesce Ops</span></label><label cla=
+ss=3D"flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border bord=
+er-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-s=
+late-700"><input class=3D"accent-primary h-3.5 w-3.5 cursor-pointer" type=
+=3D"checkbox" checked=3D""><span>Vector Loading</span></label><label class=
+=3D"flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border border=
+-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-sla=
+te-700"><input class=3D"accent-primary h-3.5 w-3.5 cursor-pointer" type=3D"=
+checkbox" checked=3D""><span>Loop Unroll</span></label><label class=3D"flex=
+ items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border border-slate-2=
+00 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-slate-700">=
+<input class=3D"accent-primary h-3.5 w-3.5 cursor-pointer" type=3D"checkbox=
+" checked=3D""><span>Block Constexpr</span></label><label class=3D"flex ite=
+ms-center space-x-2 bg-slate-50/50 p-2 rounded-lg border border-slate-200 h=
+over:border-slate-300 hover:bg-slate-50 cursor-pointer text-slate-705"><inp=
+ut class=3D"accent-indigo-600 h-3.5 w-3.5 cursor-pointer" type=3D"checkbox"=
+ checked=3D""><span>Pipelining (num_stages)</span></label><label class=3D"f=
+lex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border border-slat=
+e-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-slate-70=
+5"><input class=3D"accent-indigo-600 h-3.5 w-3.5 cursor-pointer" type=3D"ch=
+eckbox" checked=3D""><span>Warps Count (num_warps)</span></label><label cla=
+ss=3D"flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border bord=
+er-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer text-s=
+late-705"><input class=3D"accent-indigo-600 h-3.5 w-3.5 cursor-pointer" typ=
+e=3D"checkbox" checked=3D""><span>Eviction (evict_last)</span></label><labe=
+l class=3D"flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg border=
+ border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-pointer t=
+ext-slate-705"><input class=3D"accent-indigo-600 h-3.5 w-3.5 cursor-pointer=
+" type=3D"checkbox" checked=3D""><span>Alignment (multiple_of)</span></labe=
+l><label class=3D"flex items-center space-x-2 bg-slate-50/50 p-2 rounded-lg=
+ border border-slate-200 hover:border-slate-300 hover:bg-slate-50 cursor-po=
+inter text-slate-705 col-span-2"><input class=3D"accent-indigo-600 h-3.5 w-=
+3.5 cursor-pointer" type=3D"checkbox" checked=3D""><span>Tensor Core Float =
+Precision (allow_tf32)</span></label></div></div><button class=3D"w-full fl=
+ex items-center justify-center space-x-2 bg-primary hover:bg-blue-700 disab=
+led:bg-slate-300 text-white font-semibold text-sm py-2.5 px-4 rounded-lg tr=
+ansition-all shadow-xs cursor-pointer"><svg xmlns=3D"http://www.w3.org/2000=
+/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejo=
+in=3D"round" class=3D"lucide lucide-sparkles h-4 w-4 text-white fill-curren=
+t animate-pulse" aria-hidden=3D"true"><path d=3D"M11.017 2.814a1 1 0 0 1 1.=
+966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.55=
+8 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2=
+ 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1=
+.594-1.594z"></path><path d=3D"M20 2v4"></path><path d=3D"M22 4h-4"></path>=
+<circle cx=3D"4" cy=3D"20" r=3D"2"></circle></svg><span>Synthesize &amp; Ev=
+olve 3 Gens</span></button></div></div><div class=3D"bg-surface border bord=
+er-slate-200 rounded-xl p-5 shadow-xs space-y-4"><div class=3D"flex justify=
+-between items-center pb-2 border-b border-slate-100"><div class=3D"flex it=
+ems-center space-x-2"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24=
+" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor"=
+ stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" clas=
+s=3D"lucide lucide-award h-4 w-4 text-amber-500" aria-hidden=3D"true"><path=
+ d=3D"m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.1=
+97 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526"></path><circle cx=3D"12"=
+ cy=3D"8" r=3D"6"></circle></svg><span class=3D"text-xs font-bold uppercase=
+ tracking-wider text-secondary">Tensara.org Leaderboard</span></div><a href=
+=3D"https://tensara.org/problems/relu" target=3D"_blank" rel=3D"noreferrer"=
+ class=3D"flex items-center space-x-1 font-mono text-[10px] text-primary ho=
+ver:text-blue-700 transition-colors"><span>View Official</span><svg xmlns=
+=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 2=
+4 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linec=
+ap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-external-link=
+ h-3 w-3" aria-hidden=3D"true"><path d=3D"M15 3h6v6"></path><path d=3D"M10 =
+14 21 3"></path><path d=3D"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0=
+ 1 2-2h6"></path></svg></a></div><div class=3D"space-y-1.5"><div class=3D"f=
+lex items-center justify-between p-2 rounded-xl transition-all border bg-sl=
+ate-50/30 hover:bg-slate-50/80 border-transparent"><div class=3D"flex items=
+-center space-x-2.5 truncate"><span class=3D"font-mono text-xs font-bold w-=
+4 text-center text-amber-500 text-sm">1</span><div class=3D"truncate"><h5 c=
+lass=3D"text-xs text-ink font-semibold truncate">harmya</h5><span class=3D"=
+text-[9px] text-slate-400 font-mono">8/8/2025, 6:53 AM =E2=80=A2 2.21 ms</s=
+pan></div></div><div class=3D"text-right"><span class=3D"font-mono text-xs =
+font-bold text-amber-500">13.98</span><p class=3D"text-[9px] text-slate-400=
+ uppercase tracking-tight font-medium">Gflops</p></div></div><div class=3D"=
+flex items-center justify-between p-2 rounded-xl transition-all border bg-s=
+late-50/30 hover:bg-slate-50/80 border-transparent"><div class=3D"flex item=
+s-center space-x-2.5 truncate"><span class=3D"font-mono text-xs font-bold w=
+-4 text-center text-slate-400">2</span><div class=3D"truncate"><h5 class=3D=
+"text-xs text-slate-700 truncate">gpu_wizard</h5><span class=3D"text-[9px] =
+text-slate-400 font-mono">15 mins ago =E2=80=A2 2.23 ms</span></div></div><=
+div class=3D"text-right"><span class=3D"font-mono text-xs font-bold text-sl=
+ate-800">13.84</span><p class=3D"text-[9px] text-slate-400 uppercase tracki=
+ng-tight font-medium">Gflops</p></div></div><div class=3D"flex items-center=
+ justify-between p-2 rounded-xl transition-all border bg-slate-50/30 hover:=
+bg-slate-50/80 border-transparent"><div class=3D"flex items-center space-x-=
+2.5 truncate"><span class=3D"font-mono text-xs font-bold w-4 text-center te=
+xt-slate-400">3</span><div class=3D"truncate"><h5 class=3D"text-xs text-sla=
+te-700 truncate">sarthak_m</h5><span class=3D"text-[9px] text-slate-400 fon=
+t-mono">1 day ago =E2=80=A2 2.54 ms</span></div></div><div class=3D"text-ri=
+ght"><span class=3D"font-mono text-xs font-bold text-slate-800">12.18</span=
+><p class=3D"text-[9px] text-slate-400 uppercase tracking-tight font-medium=
+">Gflops</p></div></div><div class=3D"flex items-center justify-between p-2=
+ rounded-xl transition-all border bg-slate-50/30 hover:bg-slate-50/80 borde=
+r-transparent"><div class=3D"flex items-center space-x-2.5 truncate"><span =
+class=3D"font-mono text-xs font-bold w-4 text-center text-slate-400">4</spa=
+n><div class=3D"truncate"><h5 class=3D"text-xs text-slate-700 truncate">soh=
+am_jog</h5><span class=3D"text-[9px] text-slate-400 font-mono">2 days ago =
+=E2=80=A2 2.7 ms</span></div></div><div class=3D"text-right"><span class=3D=
+"font-mono text-xs font-bold text-slate-800">11.45</span><p class=3D"text-[=
+9px] text-slate-400 uppercase tracking-tight font-medium">Gflops</p></div><=
+/div><div class=3D"flex items-center justify-between p-2 rounded-xl transit=
+ion-all border bg-slate-50/30 hover:bg-slate-50/80 border-transparent"><div=
+ class=3D"flex items-center space-x-2.5 truncate"><span class=3D"font-mono =
+text-xs font-bold w-4 text-center text-slate-400">5</span><div class=3D"tru=
+ncate"><h5 class=3D"text-xs text-slate-700 truncate">cuda_lord</h5><span cl=
+ass=3D"text-[9px] text-slate-400 font-mono">5 days ago =E2=80=A2 3.32 ms</s=
+pan></div></div><div class=3D"text-right"><span class=3D"font-mono text-xs =
+font-bold text-slate-800">9.32</span><p class=3D"text-[9px] text-slate-400 =
+uppercase tracking-tight font-medium">Gflops</p></div></div><div class=3D"f=
+lex items-center justify-between p-2 rounded-xl transition-all border bg-sl=
+ate-50/30 hover:bg-slate-50/80 border-transparent"><div class=3D"flex items=
+-center space-x-2.5 truncate"><span class=3D"font-mono text-xs font-bold w-=
+4 text-center text-slate-400">6</span><div class=3D"truncate"><h5 class=3D"=
+text-xs text-slate-700 truncate">baseline_triton</h5><span class=3D"text-[9=
+px] text-slate-400 font-mono">1 week ago =E2=80=A2 5.92 ms</span></div></di=
+v><div class=3D"text-right"><span class=3D"font-mono text-xs font-bold text=
+-slate-800">5.23</span><p class=3D"text-[9px] text-slate-400 uppercase trac=
+king-tight font-medium">Gflops</p></div></div></div><div class=3D"bg-slate-=
+50 border border-slate-200 p-4 rounded-xl flex flex-col space-y-3 mt-4"><di=
+v class=3D"flex items-start space-x-2.5"><svg xmlns=3D"http://www.w3.org/20=
+00/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stro=
+ke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-line=
+join=3D"round" class=3D"lucide lucide-circle-check h-4.5 w-4.5 text-blue-60=
+0 shrink-0 mt-0.5" aria-hidden=3D"true"><circle cx=3D"12" cy=3D"12" r=3D"10=
+"></circle><path d=3D"m9 12 2 2 4-4"></path></svg><div class=3D"text-xs tex=
+t-slate-650"><p class=3D"text-ink font-semibold">Tensara Leaderboard Submis=
+sion</p><p class=3D"text-slate-500 mt-1 leading-normal">Submit and benchmar=
+k your code through our compiler engine. Claim your seat rank on the verifi=
+ed simulation leaderboard.</p></div></div><div class=3D"flex items-center j=
+ustify-between text-[11px] px-2.5 py-1.5 rounded-lg bg-white border border-=
+slate-200"><span class=3D"text-slate-500">Submitter Identity:</span><span c=
+lass=3D"font-mono font-bold text-amber-700">@Local Optimizer (Unverified Sa=
+ndbox)</span></div><div class=3D"flex flex-col space-y-2 pt-1"><button clas=
+s=3D"w-full flex items-center justify-center space-x-2 bg-blue-600 hover:bg=
+-blue-700 disabled:bg-slate-300 text-white text-xs py-2 rounded-lg transiti=
+on-all font-semibold shadow-xs cursor-pointer"><svg xmlns=3D"http://www.w3.=
+org/2000/svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none=
+" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" strok=
+e-linejoin=3D"round" class=3D"lucide lucide-award h-3.5 w-3.5 text-white/90=
+" aria-hidden=3D"true"><path d=3D"m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.=
+47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.5=
+26"></path><circle cx=3D"12" cy=3D"8" r=3D"6"></circle></svg><span>Submit t=
+o Tensara Board</span></button><div class=3D"border-t border-slate-200/60 m=
+y-1"></div><p class=3D"text-[10px] text-slate-500 text-center italic">To pl=
+ace on the official global live <strong>Tensara.org</strong> board:</p><div=
+ class=3D"flex space-x-2"><button class=3D"flex-1 flex items-center justify=
+-center space-x-1.5 bg-emerald-50 hover:bg-emerald-100 text-emerald-700 tex=
+t-xs py-2 rounded-lg border border-emerald-200 transition-all font-mono fon=
+t-semibold cursor-pointer"><svg xmlns=3D"http://www.w3.org/2000/svg" width=
+=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"current=
+Color" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round=
+" class=3D"lucide lucide-copy h-3.5 w-3.5" aria-hidden=3D"true"><rect width=
+=3D"14" height=3D"14" x=3D"8" y=3D"8" rx=3D"2" ry=3D"2"></rect><path d=3D"M=
+4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg><span>=
+1-Click Copy Code</span></button><a href=3D"https://tensara.org/problems/re=
+lu" target=3D"_blank" rel=3D"noreferrer" class=3D"flex-1 flex items-center =
+justify-center space-x-1 bg-white hover:bg-slate-50 text-slate-650 text-xs =
+px-3 py-1.5 rounded-lg border border-slate-200 transition-all font-mono sha=
+dow-3xs"><span>Paste on Tensara</span><svg xmlns=3D"http://www.w3.org/2000/=
+svg" width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejo=
+in=3D"round" class=3D"lucide lucide-external-link h-3 w-3 hover:scale-105" =
+aria-hidden=3D"true"><path d=3D"M15 3h6v6"></path><path d=3D"M10 14 21 3"><=
+/path><path d=3D"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6">=
+</path></svg></a></div></div></div></div></div></div></main><footer class=
+=3D"border-t border-slate-200 bg-white mt-12 py-8 text-secondary"><div clas=
+s=3D"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col tracking-tight md=
+:flex-row items-center justify-between text-xs"><p>=C2=A9 2026 TritonEvolve=
+. Built dynamically for high-performance compiler evaluation.</p><div class=
+=3D"flex space-x-4 mt-4 md:mt-0 font-mono text-slate-400"><span>Server Acti=
+ve: Port 3000</span><span>GPU Sandbox: Tesla T4</span></div></div></footer>=
+</div></div>
+ =20
+
+
+</body></html>
+------MultipartBoundary--VB5OMiaGdDS45yPA84iHK98QEsVrxZtdE8iWdXowfH----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--VB5OMiaGdDS45yPA84iHK98QEsVrxZtdE8iWdXowfH----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://tritonevolve-184312701025.us-east1.run.app/assets/index-DH2Unfcl.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;=
+600;700&family=3DJetBrains+Mono:wght@400;500;700&display=3Dswap");
+
+@layer properties {
+  @supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((=
+-moz-orient:inline) and (not (color:rgb(from red r g b)))) {
+  *, ::before, ::after, ::backdrop { --tw-space-y-reverse: 0; --tw-space-x-=
+reverse: 0; --tw-border-style: solid; --tw-leading: initial; --tw-font-weig=
+ht: initial; --tw-tracking: initial; --tw-shadow: 0 0 #0000; --tw-shadow-co=
+lor: initial; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #0000; --tw-i=
+nset-shadow-color: initial; --tw-inset-shadow-alpha: 100%; --tw-ring-color:=
+ initial; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-color: initial; --tw=
+-inset-ring-shadow: 0 0 #0000; --tw-ring-inset: initial; --tw-ring-offset-w=
+idth: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000=
+; --tw-backdrop-blur: initial; --tw-backdrop-brightness: initial; --tw-back=
+drop-contrast: initial; --tw-backdrop-grayscale: initial; --tw-backdrop-hue=
+-rotate: initial; --tw-backdrop-invert: initial; --tw-backdrop-opacity: ini=
+tial; --tw-backdrop-saturate: initial; --tw-backdrop-sepia: initial; --tw-s=
+cale-x: 1; --tw-scale-y: 1; --tw-scale-z: 1; }
+}
+}
+
+@layer theme {
+  :root, :host { --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif=
+; --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace; -=
+-color-red-500: oklch(63.7% .237 25.331); --color-amber-500: oklch(76.9% .1=
+88 70.08); --color-amber-700: oklch(55.5% .163 48.998); --color-emerald-50:=
+ oklch(97.9% .021 166.113); --color-emerald-100: oklch(95% .052 163.051); -=
+-color-emerald-200: oklch(90.5% .093 164.15); --color-emerald-300: oklch(84=
+.5% .143 164.978); --color-emerald-400: oklch(76.5% .177 163.223); --color-=
+emerald-500: oklch(69.6% .17 162.48); --color-emerald-600: oklch(59.6% .145=
+ 163.225); --color-emerald-700: oklch(50.8% .118 165.612); --color-blue-50:=
+ oklch(97% .014 254.604); --color-blue-100: oklch(93.2% .032 255.585); --co=
+lor-blue-200: oklch(88.2% .059 254.128); --color-blue-600: oklch(54.6% .245=
+ 262.881); --color-blue-700: oklch(48.8% .243 264.376); --color-blue-800: o=
+klch(42.4% .199 265.638); --color-indigo-500: oklch(58.5% .233 277.117); --=
+color-indigo-600: oklch(51.1% .262 276.966); --color-purple-50: oklch(97.7%=
+ .014 308.299); --color-purple-200: oklch(90.2% .063 306.703); --color-purp=
+le-600: oklch(55.8% .288 302.321); --color-rose-400: oklch(71.2% .194 13.42=
+8); --color-rose-500: oklch(64.5% .246 16.439); --color-rose-600: oklch(58.=
+6% .253 17.585); --color-slate-50: oklch(98.4% .003 247.858); --color-slate=
+-100: oklch(96.8% .007 247.896); --color-slate-200: oklch(92.9% .013 255.50=
+8); --color-slate-300: oklch(86.9% .022 252.894); --color-slate-400: oklch(=
+70.4% .04 256.788); --color-slate-500: oklch(55.4% .046 257.417); --color-s=
+late-600: oklch(44.6% .043 257.281); --color-slate-700: oklch(37.2% .044 25=
+7.287); --color-slate-800: oklch(27.9% .041 260.031); --color-slate-900: ok=
+lch(20.8% .042 265.755); --color-slate-950: oklch(12.9% .042 264.695); --co=
+lor-white: #fff; --spacing: .25rem; --container-sm: 24rem; --container-7xl:=
+ 80rem; --text-xs: .75rem; --text-xs--line-height: calc(1 / .75); --text-sm=
+: .875rem; --text-sm--line-height: calc(1.25 / .875); --text-base: 1rem; --=
+text-base--line-height: 1.5; --text-lg: 1.125rem; --text-lg--line-height: c=
+alc(1.75 / 1.125); --text-xl: 1.25rem; --text-xl--line-height: calc(1.75 / =
+1.25); --font-weight-light: 300; --font-weight-medium: 500; --font-weight-s=
+emibold: 600; --font-weight-bold: 700; --font-weight-extrabold: 800; --trac=
+king-tight: -.025em; --tracking-wider: .05em; --leading-normal: 1.5; --lead=
+ing-relaxed: 1.625; --radius-md: .375rem; --radius-lg: .5rem; --radius-xl: =
+.75rem; --radius-2xl: 1rem; --animate-spin: spin 1s linear infinite; --anim=
+ate-pulse: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite; --blur-md: 12px; -=
+-default-transition-duration: .15s; --default-transition-timing-function: c=
+ubic-bezier(.4, 0, .2, 1); --default-font-family: var(--font-sans); --defau=
+lt-mono-font-family: var(--font-mono); --color-primary: #2563eb; --color-se=
+condary: #64748b; --color-accent: #10b981; --color-ink: #1e293b; --color-bg=
+-custom: #f0f2f5; --color-surface: #fff; }
+}
+
+@layer base {
+  *, ::after, ::before, ::backdrop { box-sizing: border-box; border: 0px so=
+lid; margin: 0px; padding: 0px; }
+  ::file-selector-button { box-sizing: border-box; border: 0px solid; margi=
+n: 0px; padding: 0px; }
+  html, :host { text-size-adjust: 100%; tab-size: 4; line-height: 1.5; font=
+-family: var(--default-font-family,ui-sans-serif, system-ui, sans-serif, "A=
+pple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji")=
+; font-feature-settings: var(--default-font-feature-settings,normal); font-=
+variation-settings: var(--default-font-variation-settings,normal); -webkit-=
+tap-highlight-color: transparent; }
+  hr { height: 0px; color: inherit; border-top-width: 1px; }
+  abbr:where([title]) { text-decoration: underline dotted; }
+  h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+  a { color: inherit; text-decoration: inherit; }
+  b, strong { font-weight: bolder; }
+  code, kbd, samp, pre { font-family: var(--default-mono-font-family,ui-mon=
+ospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courie=
+r New", monospace); font-feature-settings: var(--default-mono-font-feature-=
+settings,normal); font-variation-settings: var(--default-mono-font-variatio=
+n-settings,normal); font-size: 1em; }
+  small { font-size: 80%; }
+  sub, sup { vertical-align: baseline; font-size: 75%; line-height: 0; posi=
+tion: relative; }
+  sub { bottom: -0.25em; }
+  sup { top: -0.5em; }
+  table { text-indent: 0px; border-color: inherit; border-collapse: collaps=
+e; }
+  progress { vertical-align: baseline; }
+  summary { display: list-item; }
+  ol, ul, menu { list-style: none; }
+  img, svg, video, canvas, audio, iframe, embed, object { vertical-align: m=
+iddle; display: block; }
+  img, video { max-width: 100%; height: auto; }
+  button, input, select, optgroup, textarea { font: inherit; letter-spacing=
+: inherit; color: inherit; opacity: 1; background-color: rgba(0, 0, 0, 0); =
+border-radius: 0px; }
+  ::file-selector-button { font: inherit; letter-spacing: inherit; color: i=
+nherit; opacity: 1; background-color: rgba(0, 0, 0, 0); border-radius: 0px;=
+ }
+  :where(select:is([multiple], [size])) optgroup { font-weight: bolder; }
+  :where(select:is([multiple], [size])) optgroup option { padding-inline-st=
+art: 20px; }
+  ::file-selector-button { margin-inline-end: 4px; }
+  ::placeholder { opacity: 1; }
+  @supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intr=
+insic-size:1px) {
+  ::placeholder { color: currentcolor; }
+  @supports (color:color-mix(in lab,red,red)) {
+  ::placeholder { color: color-mix(currentcolor, transparent); }
+}
+}
+  textarea { resize: vertical; }
+  ::-webkit-search-decoration { appearance: none; }
+  ::-webkit-date-and-time-value { min-height: 1lh; text-align: inherit; }
+  ::-webkit-datetime-edit { display: inline-flex; }
+  ::-webkit-datetime-edit-fields-wrapper { padding: 0px; }
+  ::-webkit-datetime-edit { padding-block: 0px; }
+  ::-webkit-datetime-edit-year-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-month-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-day-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-hour-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-minute-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-second-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-millisecond-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-meridiem-field { padding-block: 0px; }
+  ::-webkit-calendar-picker-indicator { line-height: 1; }
+  button, input:where([type=3D"button"], [type=3D"reset"], [type=3D"submit"=
+]) { appearance: button; }
+  ::file-selector-button { appearance: button; }
+  ::-webkit-inner-spin-button { height: auto; }
+  ::-webkit-outer-spin-button { height: auto; }
+  [hidden]:where(:not([hidden=3D"until-found"])) { display: none !important=
+; }
+}
+
+@layer components;
+
+@layer utilities {
+  .absolute { position: absolute; }
+  .fixed { position: fixed; }
+  .relative { position: relative; }
+  .static { position: static; }
+  .sticky { position: sticky; }
+  .top-0 { top: calc(var(--spacing) * 0); }
+  .top-5 { top: calc(var(--spacing) * 5); }
+  .right-5 { right: calc(var(--spacing) * 5); }
+  .z-40 { z-index: 40; }
+  .z-50 { z-index: 50; }
+  .col-span-2 { grid-column: span 2 / span 2; }
+  .mx-auto { margin-inline: auto; }
+  .my-1 { margin-block: calc(var(--spacing) * 1); }
+  .mt-0\.5 { margin-top: calc(var(--spacing) * .5); }
+  .mt-1 { margin-top: calc(var(--spacing) * 1); }
+  .mt-2 { margin-top: calc(var(--spacing) * 2); }
+  .mt-4 { margin-top: calc(var(--spacing) * 4); }
+  .mt-12 { margin-top: calc(var(--spacing) * 12); }
+  .mb-1 { margin-bottom: calc(var(--spacing) * 1); }
+  .mb-1\.5 { margin-bottom: calc(var(--spacing) * 1.5); }
+  .mb-2 { margin-bottom: calc(var(--spacing) * 2); }
+  .mb-3 { margin-bottom: calc(var(--spacing) * 3); }
+  .mb-4 { margin-bottom: calc(var(--spacing) * 4); }
+  .mb-6 { margin-bottom: calc(var(--spacing) * 6); }
+  .ml-2 { margin-left: calc(var(--spacing) * 2); }
+  .block { display: block; }
+  .contents { display: contents; }
+  .flex { display: flex; }
+  .grid { display: grid; }
+  .hidden { display: none; }
+  .inline-block { display: inline-block; }
+  .h-1\.5 { height: calc(var(--spacing) * 1.5); }
+  .h-2 { height: calc(var(--spacing) * 2); }
+  .h-3 { height: calc(var(--spacing) * 3); }
+  .h-3\.5 { height: calc(var(--spacing) * 3.5); }
+  .h-4 { height: calc(var(--spacing) * 4); }
+  .h-4\.5 { height: calc(var(--spacing) * 4.5); }
+  .h-5 { height: calc(var(--spacing) * 5); }
+  .h-8 { height: calc(var(--spacing) * 8); }
+  .h-10 { height: calc(var(--spacing) * 10); }
+  .h-full { height: 100%; }
+  .max-h-\[180px\] { max-height: 180px; }
+  .min-h-\[350px\] { min-height: 350px; }
+  .min-h-screen { min-height: 100vh; }
+  .w-1\.5 { width: calc(var(--spacing) * 1.5); }
+  .w-2 { width: calc(var(--spacing) * 2); }
+  .w-3 { width: calc(var(--spacing) * 3); }
+  .w-3\.5 { width: calc(var(--spacing) * 3.5); }
+  .w-4 { width: calc(var(--spacing) * 4); }
+  .w-4\.5 { width: calc(var(--spacing) * 4.5); }
+  .w-5 { width: calc(var(--spacing) * 5); }
+  .w-8 { width: calc(var(--spacing) * 8); }
+  .w-10 { width: calc(var(--spacing) * 10); }
+  .w-28 { width: calc(var(--spacing) * 28); }
+  .w-full { width: 100%; }
+  .max-w-7xl { max-width: var(--container-7xl); }
+  .max-w-sm { max-width: var(--container-sm); }
+  .flex-1 { flex: 1 1 0%; }
+  .shrink-0 { flex-shrink: 0; }
+  .animate-none { animation: auto ease 0s 1 normal none running none; }
+  .animate-pulse { animation: var(--animate-pulse); }
+  .animate-spin { animation: var(--animate-spin); }
+  .cursor-pointer { cursor: pointer; }
+  .resize-y { resize: vertical; }
+  .appearance-none { appearance: none; }
+  .grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+  .grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .flex-col { flex-direction: column; }
+  .items-center { align-items: center; }
+  .items-start { align-items: flex-start; }
+  .justify-between { justify-content: space-between; }
+  .justify-center { justify-content: center; }
+  .gap-2 { gap: calc(var(--spacing) * 2); }
+  .gap-4 { gap: calc(var(--spacing) * 4); }
+  .gap-6 { gap: calc(var(--spacing) * 6); }
+  :where(.space-y-1\.5 > :not(:last-child)) { --tw-space-y-reverse: 0; marg=
+in-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse)=
+); margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-sp=
+ace-y-reverse))); }
+  :where(.space-y-2 > :not(:last-child)) { --tw-space-y-reverse: 0; margin-=
+block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse)); ma=
+rgin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-r=
+everse))); }
+  :where(.space-y-3 > :not(:last-child)) { --tw-space-y-reverse: 0; margin-=
+block-start: calc(calc(var(--spacing) * 3) * var(--tw-space-y-reverse)); ma=
+rgin-block-end: calc(calc(var(--spacing) * 3) * calc(1 - var(--tw-space-y-r=
+everse))); }
+  :where(.space-y-4 > :not(:last-child)) { --tw-space-y-reverse: 0; margin-=
+block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse)); ma=
+rgin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-r=
+everse))); }
+  :where(.space-y-6 > :not(:last-child)) { --tw-space-y-reverse: 0; margin-=
+block-start: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse)); ma=
+rgin-block-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-r=
+everse))); }
+  :where(.space-x-1 > :not(:last-child)) { --tw-space-x-reverse: 0; margin-=
+inline-start: calc(calc(var(--spacing) * 1) * var(--tw-space-x-reverse)); m=
+argin-inline-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-x=
+-reverse))); }
+  :where(.space-x-1\.5 > :not(:last-child)) { --tw-space-x-reverse: 0; marg=
+in-inline-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-x-reverse=
+)); margin-inline-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-=
+space-x-reverse))); }
+  :where(.space-x-2 > :not(:last-child)) { --tw-space-x-reverse: 0; margin-=
+inline-start: calc(calc(var(--spacing) * 2) * var(--tw-space-x-reverse)); m=
+argin-inline-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-x=
+-reverse))); }
+  :where(.space-x-2\.5 > :not(:last-child)) { --tw-space-x-reverse: 0; marg=
+in-inline-start: calc(calc(var(--spacing) * 2.5) * var(--tw-space-x-reverse=
+)); margin-inline-end: calc(calc(var(--spacing) * 2.5) * calc(1 - var(--tw-=
+space-x-reverse))); }
+  :where(.space-x-3 > :not(:last-child)) { --tw-space-x-reverse: 0; margin-=
+inline-start: calc(calc(var(--spacing) * 3) * var(--tw-space-x-reverse)); m=
+argin-inline-end: calc(calc(var(--spacing) * 3) * calc(1 - var(--tw-space-x=
+-reverse))); }
+  :where(.space-x-4 > :not(:last-child)) { --tw-space-x-reverse: 0; margin-=
+inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse)); m=
+argin-inline-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-x=
+-reverse))); }
+  .truncate { text-overflow: ellipsis; white-space: nowrap; overflow: hidde=
+n; }
+  .overflow-hidden { overflow: hidden; }
+  .overflow-y-auto { overflow-y: auto; }
+  .rounded-2xl { border-radius: var(--radius-2xl); }
+  .rounded-full { border-radius: 3.40282e+38px; }
+  .rounded-lg { border-radius: var(--radius-lg); }
+  .rounded-md { border-radius: var(--radius-md); }
+  .rounded-xl { border-radius: var(--radius-xl); }
+  .border { border-style: var(--tw-border-style); border-width: 1px; }
+  .border-t { border-top-style: var(--tw-border-style); border-top-width: 1=
+px; }
+  .border-r { border-right-style: var(--tw-border-style); border-right-widt=
+h: 1px; }
+  .border-b { border-bottom-style: var(--tw-border-style); border-bottom-wi=
+dth: 1px; }
+  .border-l-4 { border-left-style: var(--tw-border-style); border-left-widt=
+h: 4px; }
+  .border-none { --tw-border-style: none; border-style: none; }
+  .border-\[\#d0d7de\] { border-color: rgb(208, 215, 222); }
+  .border-\[\#d0d7de\]\/60 { border-color: rgba(208, 215, 222, 0.6); }
+  .border-accent\/20 { border-color: rgba(16, 185, 129, 0.2); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-accent\/20 { border-color: color-mix(in oklab,var(--color-accent)=
+ 20%,transparent); }
+}
+  .border-blue-200 { border-color: var(--color-blue-200); }
+  .border-emerald-200 { border-color: var(--color-emerald-200); }
+  .border-emerald-300 { border-color: var(--color-emerald-300); }
+  .border-emerald-500 { border-color: var(--color-emerald-500); }
+  .border-emerald-500\/25 { border-color: rgba(0, 187, 127, 0.25); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-emerald-500\/25 { border-color: color-mix(in oklab,var(--color-em=
+erald-500) 25%,transparent); }
+}
+  .border-primary { border-color: var(--color-primary); }
+  .border-purple-200 { border-color: var(--color-purple-200); }
+  .border-rose-500\/20 { border-color: rgba(255, 35, 87, 0.2); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-rose-500\/20 { border-color: color-mix(in oklab,var(--color-rose-=
+500) 20%,transparent); }
+}
+  .border-slate-100 { border-color: var(--color-slate-100); }
+  .border-slate-200 { border-color: var(--color-slate-200); }
+  .border-slate-200\/50 { border-color: rgba(226, 232, 240, 0.5); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-slate-200\/50 { border-color: color-mix(in oklab,var(--color-slat=
+e-200) 50%,transparent); }
+}
+  .border-slate-200\/60 { border-color: rgba(226, 232, 240, 0.6); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-slate-200\/60 { border-color: color-mix(in oklab,var(--color-slat=
+e-200) 60%,transparent); }
+}
+  .border-slate-200\/70 { border-color: rgba(226, 232, 240, 0.7); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-slate-200\/70 { border-color: color-mix(in oklab,var(--color-slat=
+e-200) 70%,transparent); }
+}
+  .border-slate-200\/80 { border-color: rgba(226, 232, 240, 0.8); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .border-slate-200\/80 { border-color: color-mix(in oklab,var(--color-slat=
+e-200) 80%,transparent); }
+}
+  .border-slate-900 { border-color: var(--color-slate-900); }
+  .border-slate-950 { border-color: var(--color-slate-950); }
+  .border-transparent { border-color: rgba(0, 0, 0, 0); }
+  .border-l-primary { border-left-color: var(--color-primary); }
+  .bg-\[\#2da44e\] { background-color: rgb(45, 164, 78); }
+  .bg-\[\#24292f\] { background-color: rgb(36, 41, 47); }
+  .bg-\[\#f6f8fa\] { background-color: rgb(246, 248, 250); }
+  .bg-accent { background-color: var(--color-accent); }
+  .bg-accent\/10 { background-color: rgba(16, 185, 129, 0.1); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-accent\/10 { background-color: color-mix(in oklab,var(--color-accent)=
+ 10%,transparent); }
+}
+  .bg-bg-custom { background-color: var(--color-bg-custom); }
+  .bg-blue-50 { background-color: var(--color-blue-50); }
+  .bg-blue-50\/50 { background-color: rgba(239, 246, 255, 0.5); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-blue-50\/50 { background-color: color-mix(in oklab,var(--color-blue-5=
+0) 50%,transparent); }
+}
+  .bg-blue-600 { background-color: var(--color-blue-600); }
+  .bg-emerald-50 { background-color: var(--color-emerald-50); }
+  .bg-emerald-50\/30 { background-color: rgba(236, 253, 245, 0.3); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-emerald-50\/30 { background-color: color-mix(in oklab,var(--color-eme=
+rald-50) 30%,transparent); }
+}
+  .bg-emerald-500 { background-color: var(--color-emerald-500); }
+  .bg-indigo-600 { background-color: var(--color-indigo-600); }
+  .bg-primary { background-color: var(--color-primary); }
+  .bg-purple-50 { background-color: var(--color-purple-50); }
+  .bg-purple-600 { background-color: var(--color-purple-600); }
+  .bg-rose-500\/10 { background-color: rgba(255, 35, 87, 0.1); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-rose-500\/10 { background-color: color-mix(in oklab,var(--color-rose-=
+500) 10%,transparent); }
+}
+  .bg-slate-50 { background-color: var(--color-slate-50); }
+  .bg-slate-50\/30 { background-color: rgba(248, 250, 252, 0.3); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-50\/30 { background-color: color-mix(in oklab,var(--color-slate=
+-50) 30%,transparent); }
+}
+  .bg-slate-50\/50 { background-color: rgba(248, 250, 252, 0.5); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-50\/50 { background-color: color-mix(in oklab,var(--color-slate=
+-50) 50%,transparent); }
+}
+  .bg-slate-50\/60 { background-color: rgba(248, 250, 252, 0.6); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-50\/60 { background-color: color-mix(in oklab,var(--color-slate=
+-50) 60%,transparent); }
+}
+  .bg-slate-50\/70 { background-color: rgba(248, 250, 252, 0.7); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-50\/70 { background-color: color-mix(in oklab,var(--color-slate=
+-50) 70%,transparent); }
+}
+  .bg-slate-50\/80 { background-color: rgba(248, 250, 252, 0.8); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-50\/80 { background-color: color-mix(in oklab,var(--color-slate=
+-50) 80%,transparent); }
+}
+  .bg-slate-100\/90 { background-color: rgba(241, 245, 249, 0.9); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-slate-100\/90 { background-color: color-mix(in oklab,var(--color-slat=
+e-100) 90%,transparent); }
+}
+  .bg-slate-200 { background-color: var(--color-slate-200); }
+  .bg-slate-900 { background-color: var(--color-slate-900); }
+  .bg-slate-950 { background-color: var(--color-slate-950); }
+  .bg-surface { background-color: var(--color-surface); }
+  .bg-surface\/90 { background-color: rgba(255, 255, 255, 0.9); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .bg-surface\/90 { background-color: color-mix(in oklab,var(--color-surfac=
+e) 90%,transparent); }
+}
+  .bg-transparent { background-color: rgba(0, 0, 0, 0); }
+  .bg-white { background-color: var(--color-white); }
+  .fill-current { fill: currentcolor; }
+  .p-0 { padding: calc(var(--spacing) * 0); }
+  .p-0\.5 { padding: calc(var(--spacing) * .5); }
+  .p-2 { padding: calc(var(--spacing) * 2); }
+  .p-3 { padding: calc(var(--spacing) * 3); }
+  .p-4 { padding: calc(var(--spacing) * 4); }
+  .p-5 { padding: calc(var(--spacing) * 5); }
+  .p-6 { padding: calc(var(--spacing) * 6); }
+  .px-2 { padding-inline: calc(var(--spacing) * 2); }
+  .px-2\.5 { padding-inline: calc(var(--spacing) * 2.5); }
+  .px-3 { padding-inline: calc(var(--spacing) * 3); }
+  .px-4 { padding-inline: calc(var(--spacing) * 4); }
+  .py-0\.5 { padding-block: calc(var(--spacing) * .5); }
+  .py-1 { padding-block: calc(var(--spacing) * 1); }
+  .py-1\.5 { padding-block: calc(var(--spacing) * 1.5); }
+  .py-2 { padding-block: calc(var(--spacing) * 2); }
+  .py-2\.5 { padding-block: calc(var(--spacing) * 2.5); }
+  .py-3 { padding-block: calc(var(--spacing) * 3); }
+  .py-3\.5 { padding-block: calc(var(--spacing) * 3.5); }
+  .py-4 { padding-block: calc(var(--spacing) * 4); }
+  .py-6 { padding-block: calc(var(--spacing) * 6); }
+  .py-8 { padding-block: calc(var(--spacing) * 8); }
+  .pt-1 { padding-top: calc(var(--spacing) * 1); }
+  .pt-3 { padding-top: calc(var(--spacing) * 3); }
+  .pt-4 { padding-top: calc(var(--spacing) * 4); }
+  .pr-2 { padding-right: calc(var(--spacing) * 2); }
+  .pb-2 { padding-bottom: calc(var(--spacing) * 2); }
+  .pl-2\.5 { padding-left: calc(var(--spacing) * 2.5); }
+  .text-center { text-align: center; }
+  .text-left { text-align: left; }
+  .text-right { text-align: right; }
+  .align-middle { vertical-align: middle; }
+  .font-mono { font-family: var(--font-mono); }
+  .font-sans { font-family: var(--font-sans); }
+  .text-base { font-size: var(--text-base); line-height: var(--tw-leading,v=
+ar(--text-base--line-height)); }
+  .text-lg { font-size: var(--text-lg); line-height: var(--tw-leading,var(-=
+-text-lg--line-height)); }
+  .text-sm { font-size: var(--text-sm); line-height: var(--tw-leading,var(-=
+-text-sm--line-height)); }
+  .text-xl { font-size: var(--text-xl); line-height: var(--tw-leading,var(-=
+-text-xl--line-height)); }
+  .text-xs { font-size: var(--text-xs); line-height: var(--tw-leading,var(-=
+-text-xs--line-height)); }
+  .text-\[9px\] { font-size: 9px; }
+  .text-\[10px\] { font-size: 10px; }
+  .text-\[11px\] { font-size: 11px; }
+  .leading-5 { --tw-leading: calc(var(--spacing) * 5); line-height: calc(va=
+r(--spacing) * 5); }
+  .leading-normal { --tw-leading: var(--leading-normal); line-height: var(-=
+-leading-normal); }
+  .leading-relaxed { --tw-leading: var(--leading-relaxed); line-height: var=
+(--leading-relaxed); }
+  .font-bold { --tw-font-weight: var(--font-weight-bold); font-weight: var(=
+--font-weight-bold); }
+  .font-extrabold { --tw-font-weight: var(--font-weight-extrabold); font-we=
+ight: var(--font-weight-extrabold); }
+  .font-light { --tw-font-weight: var(--font-weight-light); font-weight: va=
+r(--font-weight-light); }
+  .font-medium { --tw-font-weight: var(--font-weight-medium); font-weight: =
+var(--font-weight-medium); }
+  .font-semibold { --tw-font-weight: var(--font-weight-semibold); font-weig=
+ht: var(--font-weight-semibold); }
+  .tracking-tight { --tw-tracking: var(--tracking-tight); letter-spacing: v=
+ar(--tracking-tight); }
+  .tracking-wider { --tw-tracking: var(--tracking-wider); letter-spacing: v=
+ar(--tracking-wider); }
+  .whitespace-nowrap { white-space: nowrap; }
+  .whitespace-pre-wrap { white-space: pre-wrap; }
+  .text-\[\#24292f\] { color: rgb(36, 41, 47); }
+  .text-accent { color: var(--color-accent); }
+  .text-amber-500 { color: var(--color-amber-500); }
+  .text-amber-700 { color: var(--color-amber-700); }
+  .text-blue-600 { color: var(--color-blue-600); }
+  .text-emerald-400 { color: var(--color-emerald-400); }
+  .text-emerald-500 { color: var(--color-emerald-500); }
+  .text-emerald-600 { color: var(--color-emerald-600); }
+  .text-emerald-700 { color: var(--color-emerald-700); }
+  .text-indigo-500 { color: var(--color-indigo-500); }
+  .text-indigo-600 { color: var(--color-indigo-600); }
+  .text-ink { color: var(--color-ink); }
+  .text-primary { color: var(--color-primary); }
+  .text-purple-600 { color: var(--color-purple-600); }
+  .text-rose-400 { color: var(--color-rose-400); }
+  .text-rose-500 { color: var(--color-rose-500); }
+  .text-rose-600 { color: var(--color-rose-600); }
+  .text-secondary { color: var(--color-secondary); }
+  .text-slate-300 { color: var(--color-slate-300); }
+  .text-slate-400 { color: var(--color-slate-400); }
+  .text-slate-500 { color: var(--color-slate-500); }
+  .text-slate-600 { color: var(--color-slate-600); }
+  .text-slate-700 { color: var(--color-slate-700); }
+  .text-slate-800 { color: var(--color-slate-800); }
+  .text-white { color: var(--color-white); }
+  .text-white\/90 { color: rgba(255, 255, 255, 0.9); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .text-white\/90 { color: color-mix(in oklab,var(--color-white) 90%,transp=
+arent); }
+}
+  .uppercase { text-transform: uppercase; }
+  .italic { font-style: italic; }
+  .placeholder-slate-400::placeholder { color: var(--color-slate-400); }
+  .accent-indigo-600 { accent-color: var(--color-indigo-600); }
+  .accent-primary { accent-color: var(--color-primary); }
+  .shadow-inner { --tw-shadow: inset 0 2px 4px 0 var(--tw-shadow-color,#000=
+0000d); box-shadow: var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(=
+--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow); }
+  .shadow-lg { --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color,#0000001=
+a), 0 4px 6px -4px var(--tw-shadow-color,#0000001a); box-shadow: var(--tw-i=
+nset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-offset-shadow),var(-=
+-tw-ring-shadow),var(--tw-shadow); }
+  .shadow-md { --tw-shadow: 0 4px 6px -1px var(--tw-shadow-color,#0000001a)=
+, 0 2px 4px -2px var(--tw-shadow-color,#0000001a); box-shadow: var(--tw-ins=
+et-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-offset-shadow),var(--t=
+w-ring-shadow),var(--tw-shadow); }
+  .shadow-sm { --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color,#0000001a), 0=
+ 1px 2px -1px var(--tw-shadow-color,#0000001a); box-shadow: var(--tw-inset-=
+shadow),var(--tw-inset-ring-shadow),var(--tw-ring-offset-shadow),var(--tw-r=
+ing-shadow),var(--tw-shadow); }
+  .shadow-xs { --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color,#0000000d); b=
+ox-shadow: var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring=
+-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow); }
+  .shadow-slate-200\/50 { --tw-shadow-color: #e2e8f080; }
+  @supports (color:color-mix(in lab,red,red)) {
+  .shadow-slate-200\/50 { --tw-shadow-color: color-mix(in oklab, color-mix(=
+in oklab, var(--color-slate-200) 50%, transparent) var(--tw-shadow-alpha), =
+transparent); }
+}
+  .backdrop-blur-md { --tw-backdrop-blur: blur(var(--blur-md)); backdrop-fi=
+lter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-back=
+drop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,=
+) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-=
+saturate,) var(--tw-backdrop-sepia,); }
+  .transition-all { transition-property: all; transition-timing-function: v=
+ar(--tw-ease,var(--default-transition-timing-function)); transition-duratio=
+n: var(--tw-duration,var(--default-transition-duration)); }
+  .transition-colors { transition-property: color, background-color, border=
+-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-f=
+rom, --tw-gradient-via, --tw-gradient-to; transition-timing-function: var(-=
+-tw-ease,var(--default-transition-timing-function)); transition-duration: v=
+ar(--tw-duration,var(--default-transition-duration)); }
+  .select-none { user-select: none; }
+  @media (hover: hover) {
+  .hover\:scale-105:hover { --tw-scale-x: 105%; --tw-scale-y: 105%; --tw-sc=
+ale-z: 105%; scale: var(--tw-scale-x) var(--tw-scale-y); }
+  .hover\:border-slate-300:hover { border-color: var(--color-slate-300); }
+  .hover\:bg-\[\#1f2327\]:hover { background-color: rgb(31, 35, 39); }
+  .hover\:bg-\[\#2c974b\]:hover { background-color: rgb(44, 151, 75); }
+  .hover\:bg-blue-100\/50:hover { background-color: rgba(219, 234, 254, 0.5=
+); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .hover\:bg-blue-100\/50:hover { background-color: color-mix(in oklab,var(=
+--color-blue-100) 50%,transparent); }
+}
+  .hover\:bg-blue-700:hover { background-color: var(--color-blue-700); }
+  .hover\:bg-emerald-100:hover { background-color: var(--color-emerald-100)=
+; }
+  .hover\:bg-slate-50:hover { background-color: var(--color-slate-50); }
+  .hover\:bg-slate-50\/80:hover { background-color: rgba(248, 250, 252, 0.8=
+); }
+  @supports (color:color-mix(in lab,red,red)) {
+  .hover\:bg-slate-50\/80:hover { background-color: color-mix(in oklab,var(=
+--color-slate-50) 80%,transparent); }
+}
+  .hover\:bg-slate-100:hover { background-color: var(--color-slate-100); }
+  .hover\:text-blue-700:hover { color: var(--color-blue-700); }
+  .hover\:text-ink:hover { color: var(--color-ink); }
+  .hover\:text-red-500:hover { color: var(--color-red-500); }
+}
+  .focus\:border-indigo-600:focus { border-color: var(--color-indigo-600); =
+}
+  .focus\:border-primary:focus { border-color: var(--color-primary); }
+  .focus\:ring-0:focus { --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc=
+(0px + var(--tw-ring-offset-width)) var(--tw-ring-color,currentcolor); box-=
+shadow: var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-of=
+fset-shadow),var(--tw-ring-shadow),var(--tw-shadow); }
+  .focus\:ring-1:focus { --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc=
+(1px + var(--tw-ring-offset-width)) var(--tw-ring-color,currentcolor); box-=
+shadow: var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-of=
+fset-shadow),var(--tw-ring-shadow),var(--tw-shadow); }
+  .focus\:ring-indigo-600\/40:focus { --tw-ring-color: #4f39f666; }
+  @supports (color:color-mix(in lab,red,red)) {
+  .focus\:ring-indigo-600\/40:focus { --tw-ring-color: color-mix(in oklab, =
+var(--color-indigo-600) 40%, transparent); }
+}
+  .focus\:ring-primary\/40:focus { --tw-ring-color: #2563eb66; }
+  @supports (color:color-mix(in lab,red,red)) {
+  .focus\:ring-primary\/40:focus { --tw-ring-color: color-mix(in oklab, var=
+(--color-primary) 40%, transparent); }
+}
+  .focus\:outline-none:focus { --tw-outline-style: none; outline-style: non=
+e; }
+  .active\:bg-blue-800:active { background-color: var(--color-blue-800); }
+  .disabled\:bg-slate-300:disabled { background-color: var(--color-slate-30=
+0); }
+  @media (min-width: 40rem) {
+  .sm\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .sm\:px-6 { padding-inline: calc(var(--spacing) * 6); }
+}
+  @media (min-width: 48rem) {
+  .md\:mt-0 { margin-top: calc(var(--spacing) * 0); }
+  .md\:flex { display: flex; }
+  .md\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .md\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0px, 1fr)); }
+  .md\:flex-row { flex-direction: row; }
+}
+  @media (min-width: 64rem) {
+  .lg\:col-span-5 { grid-column: span 5 / span 5; }
+  .lg\:col-span-7 { grid-column: span 7 / span 7; }
+  .lg\:grid-cols-12 { grid-template-columns: repeat(12, minmax(0px, 1fr)); =
+}
+  .lg\:px-8 { padding-inline: calc(var(--spacing) * 8); }
+}
+}
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.animate-fade-in { animation: 0.4s ease-out 0s 1 normal forwards running fa=
+deIn; }
+
+pre::-webkit-scrollbar { width: 6px; height: 6px; }
+
+div::-webkit-scrollbar { width: 6px; height: 6px; }
+
+textarea::-webkit-scrollbar { width: 6px; height: 6px; }
+
+pre::-webkit-scrollbar-track { background: rgb(241, 245, 249); }
+
+div::-webkit-scrollbar-track { background: rgb(241, 245, 249); }
+
+textarea::-webkit-scrollbar-track { background: rgb(241, 245, 249); }
+
+pre::-webkit-scrollbar-thumb { background: rgb(203, 213, 225); border-radiu=
+s: 3px; }
+
+div::-webkit-scrollbar-thumb { background: rgb(203, 213, 225); border-radiu=
+s: 3px; }
+
+textarea::-webkit-scrollbar-thumb { background: rgb(203, 213, 225); border-=
+radius: 3px; }
+
+pre::-webkit-scrollbar-thumb:hover { background: rgb(148, 163, 184); }
+
+div::-webkit-scrollbar-thumb:hover { background: rgb(148, 163, 184); }
+
+textarea::-webkit-scrollbar-thumb:hover { background: rgb(148, 163, 184); }
+
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-valu=
+e: 0; }
+
+@property --tw-space-x-reverse { syntax: "*"; inherits: false; initial-valu=
+e: 0; }
+
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: =
+solid; }
+
+@property --tw-leading { syntax: "*"; inherits: false; }
+
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+
+@property --tw-tracking { syntax: "*"; inherits: false; }
+
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0=
+000; }
+
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; init=
+ial-value: 100%; }
+
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: =
+0 0 #0000; }
+
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false=
+; initial-value: 100%; }
+
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0=
+ 0 #0000; }
+
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-va=
+lue: 0 0 #0000; }
+
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; ini=
+tial-value: 0; }
+
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-va=
+lue: #fff; }
+
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-v=
+alue: 0 0 #0000; }
+
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+
+@property --tw-scale-x { syntax: "*"; inherits: false; initial-value: 1; }
+
+@property --tw-scale-y { syntax: "*"; inherits: false; initial-value: 1; }
+
+@property --tw-scale-z { syntax: "*"; inherits: false; initial-value: 1; }
+
+@keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes pulse {=20
+  50% { opacity: 0.5; }
+}
+------MultipartBoundary--VB5OMiaGdDS45yPA84iHK98QEsVrxZtdE8iWdXowfH------
